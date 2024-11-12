@@ -1,0 +1,217 @@
+.custome-simple-logo{
+    font-family: fantasy !important;
+    padding: 4px 6px;
+   border: 1px solid #ffffff94;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    box-sizing: border-box !important;
+}
+
+.nav-link{
+    padding: 0 !important;
+}
+
+.links-nav {
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    padding: 12px 15px !important; 
+    cursor: pointer !important;
+}
+.active {
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 4px 0 0 4px;
+}
+.nav-item:not(.active):hover{
+    background-color: rgba(128, 128, 128, 0.116);
+    color: white;
+    padding: 2px 0;;
+}
+@media (min-width:991px) {
+    .fs-22{
+        font-size: 22px !important;
+    }
+}
+
+@media (max-width:767px) {
+    .cutsome-toggle{
+        width: 100% !important;
+       background-color: #4c0fbd !important;
+       margin: 8px 0 0 0;
+    }
+    .navigate-custome-style{
+        margin-right: auto;
+    width: 100%;
+    background: none;
+    text-align: left;
+    padding: 0 0 0 3px !important;
+    margin: 10px 0 10px 4px !important;
+    margin-right: auto;
+    border-radius: 0;
+    }
+    .flex-column-sm{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .fs-20{
+        font-size: 20px !important;
+    }
+    .fs-25{
+        font-size: 25px !important;
+    }
+    .ml-10{
+        margin-left: 10px !important;
+    }
+}
+/* .nav-link.active {
+    background-color: #4c0fbd;
+    color: white;
+  } */
+  
+.navbar-toggler:focus {
+box-shadow: none !important;    
+}
+.box-shadow{
+    box-shadow: 1px 1px 10px #31439b41 !important;
+}
+.navbar-toggler{
+    border: 1px solid #b9a7cf !important;
+}
+.navbar-toggler-icon {
+  filter: invert(100%);
+}
+
+.custome-sideBar-big{
+    background-color: rgb(76, 15, 189);
+    margin: 40px 20px 0px auto !important;
+}
+
+.box-shadoww{
+    box-shadow:1px 1px 5px grey !important;
+}
+
+
+ img {
+        width: 100%;
+        height: 100%;
+        transition: width 1s, height 1s,transform 1s;
+
+      }
+      td:hover img{
+        margin: 0 50px  ;
+         opacity: 70%;
+         width: 65%;
+         height: 65%;
+         transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+         transform: rotate(360deg);
+
+      }
+      table {
+        /* border: 2px solid yellow; */
+        width: 100%;
+        border-spacing:10px !important;
+
+      }
+      td {
+        width:20%;
+        border: 2px solid yellow !important;
+      }
+
+
+
+@media (min-width:992px) {
+    .fixed-position{
+        position:fixed;
+        top:100px;
+        width: 17% !important;
+    }
+    
+    .fixed-25{
+        position:fixed;
+        top:100px;
+        width: 25% !important;
+    }
+}
+@media (max-width:991px) {
+    .static-position-top{
+        position: static !important;
+        width: 100%;
+        margin-top: 50px;
+    }  
+    .static-position-bottom{
+            position: static !important;
+            bottom: 100px !important;
+            width: 100%;
+    }
+    .colm-reverse{
+        flex-direction: column-reverse !important;
+    }
+    .text-s-91{
+        text-align: start !important;
+    }
+}
+
+
+.d--none{
+    display: none !important;
+}
+
+@media (max-width:767px){
+    .w-smm-100{
+        width: 100% !important;
+    }
+    .w-smm-75{
+        width: 75% !important;
+    }
+    .w-smm-95{
+        width: 90% !important;
+    }
+}
+@media (max-width:991px){
+    .w-mdd-100{
+        width: 100% !important;
+    }
+    .w-mdd-75{
+        width: 75% !important;
+    }
+}
+
+@media (min-width:992px){
+    .w-xll-50{
+        width: 50% !important;
+    }
+    .w-xll-100{
+        width: 100% !important;
+    }
+}
+
+.form-control{
+    border-right: 0 !important;
+    border-radius: 3px !important;
+    padding: 8px 10px !important;
+}
+.input-placeholder-white::placeholder {
+    color: #fff !important; /* لون placeholder الأبيض */
+    opacity: 0.3 !important; /* للتأكد من وضوح اللون */
+  }
+
+.input-placeholder-white{
+    color: #fff !important;
+}
+
+.form-control:focus{
+    box-shadow: 0px 0px 5px #ffffff63 !important;
+}
+
+/* .bg-sm{
+    @media (max-width:767px) {
+        background-color: rgb(44 0 125) !important;
+    }
+   
+} */

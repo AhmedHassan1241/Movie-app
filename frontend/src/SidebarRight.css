@@ -1,0 +1,99 @@
+/* SidebarRight.css */
+/* .sidebar {
+    width: 190px !important;
+  } */
+
+  *{
+    box-sizing: border-box !important;
+  }
+  
+  .sidebar-nav {
+    display: flex;
+    flex-direction: column ;
+  }
+  
+  /* Media query لتحويل الـ Sidebar إلى أفقي عند الشاشات الصغيرة */
+  @media (max-width: 991px) {
+    /* .sidebar {
+      width: 100% !important;
+    } */
+  
+    .sidebar-nav {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between !important;
+        align-items: center !important;
+        white-space: nowrap;
+        overflow-x: auto;
+        flex-wrap: nowrap !important;
+        overflow-y: hidden;
+      }
+      
+  
+    .nav-item {
+      border-bottom: none; /* إزالة الحدود عند العرض الأفقي */
+    }
+  
+    .nav-link {
+      text-align: center;
+      padding: 10px;
+    }
+  
+    .nav-link img {
+      margin-left: 5px;
+    }
+  }
+  
+
+@media (min-width:768px) and (max-width:992px) {
+    .flex-row-md-lg{
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: center !important;
+        gap: 8px;
+        padding-top: 4px !important;
+  }
+  .p-md-lg-0{
+    padding: 0;
+  }
+}
+
+@media (max-width:767px) {
+    .flex-smm-column{
+        display: flex !important;
+        flex-direction: column !important;
+    }
+    .mt-in-sm{
+        margin-top: 2rem !important;
+    }
+}
+  /* ***** */
+
+
+  /* ConnectSidebar.css */
+.connect-sidebar .nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #510fbd;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.connect-sidebar .nav-link:hover {
+  background-color: #f0f0f0;
+}
+
+.connect-sidebar .nav-link i {
+  margin-right: 10px;
+}
+
+.nav-link.active {
+  font-weight: bold;
+  /* transform: translateX(-7px) !important; */
+  box-shadow: 1px 1px 7px #6c696ebf;
+  color: white;
+  margin: 5px 0px !important;
+  padding: 10px 7px !important;
+}

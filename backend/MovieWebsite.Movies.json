@@ -1,0 +1,1286 @@
+[{
+  "_id": {
+    "$oid": "67087d09be3336697057efb4"
+  },
+  "title": "The Shawshank Redemption",
+  "release_date": {
+    "$date": "1994-09-23T00:00:00.000Z"
+  },
+  "rating": 9.3,
+  "overview": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+  "categories": [
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    },
+    {
+      "$oid": "670874be4d96e86e905c2e8b"
+    }
+  ],
+  "vote_count": 21000,
+  "__v": 0,
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "views": 150000,
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg",
+  "photo": "https://m.media-amazon.com/images/M/MV5BNTYxOTYyMzE3NV5BMl5BanBnXkFtZTcwOTMxNDY3Mw@@._V1_FMjpg_UX1800_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi3877612057/1434659607842-pgv4ql-1616202333253.mp4?Expires=1728827629&Signature=L47m-42xFw96yq8gzkOspZVYrhaIm28tiwBRbvkGcZ9AHNW23g~oe3ccU8Yz-m2GjyV0kplY6NhVlw0xNaKWZElnQDZZL2HJNgyV4CG4OHhNs~WKCgjmCJj0qOQYMv92fyzDl1d-YhHxRN61KLafXpJpcW0Ba0IFKpssTb3bDlWHL3LrlXUIUsjmMReemfeD~qRWIJ7H2RAR3awLpp8mRnCMvffZVfRmKyvLzO~H0WWOdB~f6zdjkIcNzKU2NqlzQIIu-u4yG1wBjnkK9s79DiTBEupTvUMfb1ENoyw4Qdxk7m54q0b7DmI~5dLss6gLiwZfYoEjG-TpyfyhEd8Tlw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%D9%81%D9%8A%D9%84%D9%85-the-shawshank-redemption-1994-%D9%85%D8%AA%D8%B1%D8%AC%D9%85/"
+},
+{
+  "_id": {
+    "$oid": "67087d18be3336697057efb8"
+  },
+  "title": "The Godfather",
+  "release_date": {
+    "$date": "1972-03-14T00:00:00.000Z"
+  },
+  "rating": 9.2,
+  "overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+  "categories": [
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    },
+    {
+      "$oid": "670874be4d96e86e905c2e8b"
+    }
+  ],
+  "vote_count": 18000,
+  "__v": 0,
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "views": 290000,
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BYTJkNGQyZDgtZDQ0NC00MDM0LWEzZWQtYzUzZDEwMDljZWNjXkEyXkFqcGc@._V1_FMjpg_UY1982_.jpg",
+  "photo": "https://m.media-amazon.com/images/M/MV5BZmU1YzU0NzEtMWE3OC00N2M3LTliOWMtZDRhNjU2YjlkMTZhXkEyXkFqcGc@._V1_FMjpg_UY4281_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi1348706585/1434659607842-pgv4ql-1616202346191.mp4?Expires=1728833297&Signature=WjG5ZYOkETMFK6rh~ortSSN4AKWhecWa264Rt-8ic1trkBRonTXhNRIKpDPocy~RwFVmjnAyIw25qE3863uX4H0kEXgr648X4uDFgcteufb7NjAuCITUeIXoUYUh9SlVtpK8OLNuwthSl0V955XG-iKxeZ6e2UeMXQnW3US2nrurEbRjBtkOepPFAWJIO9ZItaSIiGhHePVOJX9B9NTlM1veldmAJF97VR~rPfidxCoVMXhDQrCk4PddlS6ZfJ3rY5DAJJ8TrlnJXWs3qkp2kdkjeC1Cs~v-v~CEg8CpOv-~XMGTL9Fil12eW-QRos01uE~VjFiSZyj9AEBnD8HSJQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-the-godfather-1972-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-3/"
+},
+{
+  "_id": {
+    "$oid": "67087d2abe3336697057efbd"
+  },
+  "title": "The Dark Knight",
+  "release_date": {
+    "$date": "2008-07-18T00:00:00.000Z"
+  },
+  "rating": 9,
+  "overview": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670874be4d96e86e905c2e8b"
+    },
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    }
+  ],
+  "vote_count": 25000,
+  "__v": 0,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "views": 370000,
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UY2048_.jpg",
+  "link": "https://egybest.land/%D9%81%D9%8A%D9%84%D9%85-the-dark-knight-2008-%D9%85%D8%AA%D8%B1%D8%AC%D9%85/",
+  "photo": "https://m.media-amazon.com/images/M/MV5BMjNmYzY0YTYtNWE4My00ODg4LTgxYjEtNzBmMDQ5MmNhYzhlXkEyXkFqcGc@._V1_FMjpg_UY568_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi324468761/1434659607842-pgv4ql-1563712918369.mp4?Expires=1728834077&Signature=nwqBXzYWWJTetAWsnEyBUIKwO4aiahD4vq1BdOSCKgtp~HqNNSALWtdWEEaoTnyiMqSKRaiFYlZoDJFhuv71fQmvmsy90wfKTuPMG5mS8xTIDUbNNbxBNRbGCdjLI8Bpw2QyuD7tCqnLZfSNTBEGJvl8XwhDXFrq7sBjKDXT2leZJDlaGuEg2oPgwPxRcS38hbSPkX37witQ~vqo~6aYDvu3U8Ff8Wxhs0QzvZ9WCnlQFvWmnFMLpJnCQdS~H5T33H4hAGZaYc69B7wkxbj06cz1yiI5GoqPE6aMqg5CFzVdjvZilgT1keVy4SijDUeUzIGWyFLPtBhXdqcgDT-JAQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+},
+{
+  "_id": {
+    "$oid": "67087d4abe3336697057efc1"
+  },
+  "title": "Pulp Fiction",
+  "release_date": {
+    "$date": "1994-10-14T00:00:00.000Z"
+  },
+  "rating": 8.9,
+  "overview": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+  "categories": [
+    {
+      "$oid": "670874be4d96e86e905c2e8b"
+    },
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    }
+  ],
+  "vote_count": 17000,
+  "__v": 0,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "views": 110000,
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_FMjpg_UX1055_.jpg",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-pulp-fiction-1994-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-6/",
+  "photo": "https://m.media-amazon.com/images/M/MV5BNjJhODUzZDYtOTZmMS00YWI4LTgxYTktMjk1MjViZDRmMzVjXkEyXkFqcGc@._V1_FMjpg_UY1920_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi2620371481/1434659607842-pgv4ql-1450205469045.mp4?Expires=1728834334&Signature=h5q8hUn8KFp2vxJAHV2JRteOF6AlZDwiDrWl6p1UZK1i8Cffzn~i9jTUza3kJQ8QHYmFbYVQSXDkI792nOQY5hPPvaJh9VsNn3qgscZ8iIQkFF~vFmqdfqWE2spNLMtQ1Y0TK22IUGfd2OObyp2CZ8pXZoe2H2RdnB1BEqhaMUlLT84ZsnB7MfBCW1CrTmDEqe9ht98G6pbyaxeE7J53yHR4Uzt4JrkauuS1pkdIBy~cSzPQwrvCi1zq6ZxN7hASTVQ-o6IDwkXzwrhMSas19Qrckcde3X5S7ywAlx-7Fyw~79EjDgXPX13NOxP5Npo-QAMPNAcrp5002CPnVZnQ5Q__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+},
+{
+  "_id": {
+    "$oid": "67087d5abe3336697057efca"
+  },
+  "title": "Schindler's List",
+  "release_date": {
+    "$date": "1993-12-15T00:00:00.000Z"
+  },
+  "rating": 8.9,
+  "overview": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+  "categories": [
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    },
+    {
+      "$oid": "670874f94d96e86e905c2e8e"
+    },
+    {
+      "$oid": "6708758d4d96e86e905c2e95"
+    }
+  ],
+  "vote_count": 14000,
+  "__v": 0,
+  "genres": [
+    "Drama",
+    "Historical",
+    "War"
+  ],
+  "views": 650000,
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_FMjpg_UY2400_.jpg",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-1993-schindlers-list-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "photo": "https://m.media-amazon.com/images/M/MV5BZGYzN2ZiOTAtNTUzMy00NTRiLWE3ODMtODZiMDUxMzg1OWM5XkEyXkFqcGc@._V1_FMjpg_UX1280_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi1158527769/1434659607842-pgv4ql-1564710232825.mp4?Expires=1728834570&Signature=cFeF-oxORiBnEFajcAC4mPb0f~rl1ULHp67MUreNa8f0dqMtZ3w~zJwYdRrKIOxkieUfELqaiKOVxPU1wTSYWojjr~pf4VMZSzJ4Gu-whHHVApGoh081QyOlAisbo0elrETyvl8sonRdm1AoAU4~LLS5SbCQ88IQxO5u1OGShvvkdxdpJinRZocOTMyd8Mxvdlay4FYidswQjC0ewCB0rAHOMzh9uYJRV0IKP8hSOYe4VNZIC2b90otBOIa0pO0WsJnvDnV-tavGs~sjuJCCGR4Nkwx5nH9jpFFfApYF8LGKSCMpSwMDIG8dFl3i3gHgR~5K6eJrnvcp7LdmpURBkw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+},
+{
+  "_id": {
+    "$oid": "67096ec746c338a9b48bb3d4"
+  },
+  "title": "Forrest Gump",
+  "release_date": {
+    "$date": "1994-07-06T00:00:00.000Z"
+  },
+  "rating": 8.8,
+  "overview": "The presidencies of Kennedy and Johnson, the Vietnam War, and more, all through the eyes of Forrest Gump, a man with a low IQ.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "categories": [
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    },
+    {
+      "$oid": "6708755c4d96e86e905c2e92"
+    }
+  ],
+  "vote_count": 18000,
+  "__v": 0,
+  "views": 700000,
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_FMjpg_UX558_.jpg",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-forrest-gump-1994-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-19/",
+  "photo": "https://m.media-amazon.com/images/M/MV5BYjc5MTBjOGUtODdhZi00NDFlLTg0MzgtZDNkZTM0ZTZjMTVjXkEyXkFqcGc@._V1_FMjpg_UX544_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi3567517977/1434659607842-pgv4ql-1564505606861.mp4?Expires=1728834752&Signature=Accr1ZcbMA7Dra5wqSJp3C91pohN9SXMTzIsWZQ8KT8RAdciL9MF2anNSknstyAcakS09QMZyK0r0TR8DQi9WBNlQkpiMr8Y0HXxL76FeUhYa5x5ECFXGOFHCqGAl9p~~LRx47GSiEKvVqint5er4TRGwc~L4lBoAqLY9Ui1Pl9xP-VlJtJ6h2X7W5MVGrEhxrQhk7URKF7DjEuZD~2DZkMIhPEICWnKVNvsUym-UciZF4MnGuUpm1ZxES1xCXSZE69fagvUSggSJpE0p1JV~6YWi69bZ6gwkY4TljO8d4FPFDP0BQQnXaYNc1sCiXKpEb5oHXcmYf6e3KxNu2OUfA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+},
+{
+  "_id": {
+    "$oid": "6709708e46c338a9b48bb3dd"
+  },
+  "title": "Inception",
+  "release_date": {
+    "$date": "2010-07-16T00:00:00.000Z"
+  },
+  "rating": 8.8,
+  "overview": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670875694d96e86e905c2e93"
+    },
+    {
+      "$oid": "6708757f4d96e86e905c2e94"
+    }
+  ],
+  "vote_count": 22000,
+  "__v": 0,
+  "views": 230000,
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX700_.jpg",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-inception-2010-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "photo": "https://m.media-amazon.com/images/M/MV5BMTMyMzYxMDQ3NV5BMl5BanBnXkFtZTcwNTA1NTcwMw@@._V1_FMjpg_UX300_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi2959588889/1434659607842-pgv4ql-1596404706743.mp4?Expires=1728835016&Signature=RYbLiWKzRdEJSjJ4VeNIb4Ky~xKKTUUGBLwasi1tOWCWp1YyoLWH6mnhJHKu1hdWy2DhYcl6XBQGusPrpKDHQ-SfThV2zAcZ35PtkJH6W8FIwXsg3Oe0EJPn-Hp8A-8YyGaOuyUjzEIALpoVGHGo8Qvxk4cMvpRiPFdjtiyhmYRtbc2gNE322ScYpMbfpE8GUUPaq30T-Gu4KqJcHRsf-Nvib0HfDAKpNGygs6PN0j9niwFtWy6Ths3DDelfN52RzMbDqhjQHOwITEka4lGbUb9-iQwVuE2OQscGatrQr4Mf34~2cm3bMmH9zIV7ZrvtSgAfT5fRtqPd9KUgRbc62g__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+},
+{
+  "_id": {
+    "$oid": "670972af88341177b62f6dd6"
+  },
+  "title": "Fight Club",
+  "release_date": {
+    "$date": "1999-10-15T00:00:00.000Z"
+  },
+  "rating": 8.8,
+  "overview": "An insomniac office worker and a soap maker form an underground fight club that evolves into much more.",
+  "genres": [
+    "Drama"
+  ],
+  "categories": [
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    }
+  ],
+  "vote_count": 19000,
+  "__v": 0,
+  "views": 140000,
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_FMjpg_UX1066_.jpg",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-fight-club-1999-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "photo": "https://m.media-amazon.com/images/M/MV5BYmNmNTA2NzktYzE0My00MmY3LThhZWYtM2I5MDQ1YmU3ZDAyXkEyXkFqcGc@._V1_FMjpg_UX1240_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi123455001/1434659607842-pgv4ql-1727104628503.mp4?Expires=1728835231&Signature=sz0DiHoihIw1PIoIVDSXezn~AznD8mp42FdIbl~gjltUAS46~4xkwtJvZiM4hr7Ldh2KbXQTtsy-OWJqQSflJYsoqduQ4rstoV6dvEcg5HaP2Vr2eWEwFyXiHhIJ8-6vFvT~wLBJm4tPe2Ezg2TmbbL7jcdxD5k5tePxEi~8sX5yiMxImUSEMqpCgBnEHyCJVUIpS14wkRBi~aZx3p9gzu2aV2ehcdPMOxIVWleTcgbK7cJGetiUKnc04LXBBlr7StIQwE8Xk~6aK2npR8gPtu1HhBoNz2eNa20M8tBhp6q4eo0KJxnQXimPKbIbDzbc7eOViLfAhqly208dKrL2Ow__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+},
+{
+  "_id": {
+    "$oid": "670974fbe34665acb69424ea"
+  },
+  "title": "The Matrix",
+  "release_date": {
+    "$date": "1999-03-31T00:00:00.000Z"
+  },
+  "rating": 8.7,
+  "overview": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+  "genres": [
+    "Action",
+    "Science Fiction"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670875694d96e86e905c2e93"
+    }
+  ],
+  "vote_count": 18000,
+  "__v": 0,
+  "views": 322000,
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UY3156_.jpg",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-the-matrix-1999-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "photo": "https://m.media-amazon.com/images/M/MV5BYzQxOGU2YTUtZTc3OC00NzQ2LTg3YTUtYzBkZGM1MGIwZjRhXkEyXkFqcGc@._V1_FMjpg_UY2362_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi1032782617/1434659607842-pgv4ql-1606954147857.mp4?Expires=1728835418&Signature=AMMcUkOWGfiFabLzYHuLt5vJTLkQtNpl9wwYZZO6XOeTh5Mt~ZE-AytKMV9We78yfgBHJXhmA1B1stGDq4O4syu68F~bjEisbwDk7Xk0lejiSvhNAsI8cFlSzPLMJ8-CS3D1W-iMgEK0l6SHbo3mHx4-CkEmcjPEqfdngwZAr2gZxtbO8n0Dl80~S~dufyR00iJWHyDrePSYpL--w7~uN~3UosSalQC3LByXX3Ao5kGxuHdVfFFZdNNCti4SorxnBRMm4qaJBhKjMEFlcjD7QOdv7zzj-hl~vqGLHZ0Oqn3WbLMM~qjJnyt1IwVp~yJQyoZMKKhMUkG~lqnKkVQR0A__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+},
+{
+  "_id": {
+    "$oid": "67097602f695e9d784bce25a"
+  },
+  "title": "Goodfellas",
+  "release_date": {
+    "$date": "1990-09-12T00:00:00.000Z"
+  },
+  "rating": 8.7,
+  "overview": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen and his partners Jimmy and Tommy.",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "categories": [
+    {
+      "$oid": "670874be4d96e86e905c2e8b"
+    },
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    }
+  ],
+  "vote_count": 13000,
+  "__v": 0,
+  "views": 265000,
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_FMjpg_UY2972_.jpg",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-goodfellas-1990-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "photo": "https://m.media-amazon.com/images/M/MV5BMGMyN2E4OTgtZTg1Zi00ODFhLThhYjctMGRjMmVlYjYzYWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi2673654553/1434659607842-pgv4ql-1536960216608.mp4?Expires=1728835712&Signature=nG0-N6zH7IepFoQleXkGB6bKygeSgdkDlLiA6bJZlCh~Q9i5HYZ9kSZ7jEYsyqexwRkSxSdJMIdNQ3hp135UU6wDWZYKorZworDIzXtVRyvtK-v0BtK~JwOfZPfFloID7KDAIuk1nj72oHAMxlQ3c~oap9TIak~06fPyW4rLymHS2oWvFPNhDvyJ0P~Ty6Bx8fESE8yq0kLJRoHHgB6y1cacnZ521Q18OvRealjYpJKQvcAbgbb4t3qY7SC-dA8HClPdsAP8W4Pw4NDTU-VAvb5ReZOKOusAybAbt8ub4ge2h-6CVAaqhYjp79xfhQ3qxOqm3BdiPiX5EqNy-nwZ6w__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+},
+{
+  "_id": {
+    "$oid": "67097654f695e9d784bce25f"
+  },
+  "title": "The Lord of the Rings: The Return of the King",
+  "release_date": {
+    "$date": "2003-12-17T00:00:00.000Z"
+  },
+  "rating": 8.9,
+  "overview": "Gandalf and Aragorn lead the World of Men against Sauron’s army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "categories": [
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    },
+    {
+      "$oid": "670874eb4d96e86e905c2e8d"
+    },
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    }
+  ],
+  "vote_count": 22000,
+  "__v": 0,
+  "views": 457000,
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-2003-the-lord-of-the-rings-the-return-of-the-king-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "photo": "https://m.media-amazon.com/images/M/MV5BMjMzMWM1MjQtZDU1MS00MjI2LTg2MGItYjc2NmZkZDIyMTNlXkEyXkFqcGc@._V1_FMjpg_UX1024_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi718127897/1434659607842-pgv4ql-1640007041064.mp4?Expires=1728835918&Signature=aHBcOkzZpaUReb~QXYcb4OlxG3uSMMOKIyRiIgl3lzAdCvaIrBxQhQlwzJ8Z-VO-MkVs4lvZAycLqRQJ4zBUa~PnyV1xxkpAyhaJO0og1P3~k2pUWDfHTOH5S1qtZPlnpQmgzDwGdmi9z~krb-rcisAZUERxUrAgmWKMYqWydkBC4iqeM-N8IbQ6EUzTc6nCMLmXgdP5dTy70tx3whV7875uRTL9cFxvud2Ieu8tT4kQ0gwTZXMCG1sOB0OBxvquUBMUWaZc8~d7sfDPTrqQfkmpT6FE04akzIH2IhgZoAQjwOJ7ziQCTZzD42HT7TNkQwUEM7tijJsa7pHz8B3luA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+},
+{
+  "_id": {
+    "$oid": "670aa3c35b96dab608a1706f"
+  },
+  "title": "Dune: Part Two",
+  "release_date": {
+    "$date": "2024-03-15T00:00:00.000Z"
+  },
+  "rating": 8.8,
+  "overview": "Paul Atreides unites with the Fremen to seek revenge against the conspirators who destroyed his family while he faces a choice between love and the fate of the known universe.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "categories": [
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    },
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    },
+    {
+      "$oid": "670875694d96e86e905c2e93"
+    }
+  ],
+  "vote_count": 850000,
+  "views": 2000000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BNjNkZTEzNmUtMWJhNC00NTUwLTg4NmMtMzU2MjMyZGU3ZjJkXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi3332425241/1434659607842-pgv4ql-1709136917577.mp4?Expires=1728836771&Signature=nCkTFnKlaDMRPifphq555N36~4jsdjzrKJT3PRCLzBKg4LDEPwd5oChCLGnc6DFVcmPVmgGkDVk6bIIcsXs59MO04HLARwjHkE4zUBMSyKRgEl~kvbNH44fnnut5epAcqqYiXK5WsX97ADp3X9qwjvwwTVY0oTGDoPyi3lMlpK5O5HEq0bvcYsIdEQyc2FvQLQqmt2z7Qw~qes2ZU-Nq50ILc5qEz5c1BVKZd3-~Wt5K2QYIERBw9gqD7Tdz47YIVbENbpLQb1UHCbkwFatxLcLZzrfwuD2eMyivKN4FmcLVahSGGQnDqH27y1ktXqV4MdewozouWDax0ZtnFIwhgw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-dune-part-two-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86-8/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670aa756b97a0bdd96fd1589"
+  },
+  "title": "Twisters",
+  "release_date": {
+    "$date": "2024-07-19T00:00:00.000Z"
+  },
+  "rating": 7,
+  "overview": "A sequel to the 1996 classic Twister, the story follows a new generation of storm chasers as they encounter one of the most dangerous storm systems ever recorded.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BNjM4MWEwMTEtNTcwYi00ZDI4LWEwMzUtNDMzODBhZmI5MWE1XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    },
+    {
+      "$oid": "6708757f4d96e86e905c2e94"
+    }
+  ],
+  "vote_count": 5820000,
+  "views": 1000000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BZDU4MjQwZWItZTI0Ni00OTc3LTk2YzMtMzkxODZlZTE5ZTIxXkEyXkFqcGc@._V1_FMjpg_UY2100_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi1204864537/1434659607842-pgv4ql-1715180302685.mp4?Expires=1728837747&Signature=GQI31Vgkeb9TGqxKwcWJRIRfF6jBxaShY1IUZ6bW~xdTnlCROQjuekXQZvRTY88fsw21k3ywMcu7Tz3ETNH2tpqgggDHryq1c2oFYoGV5f3idt~mAqnGbFsl4TfFZekJTMk5X8N96vpKCy3qdnJIgM306ee0RPXKTX29Waq1~DVbfyJvX2HgEcFMGJp9JuFsE2XNc2-BjtmNv5ai-arxrerNmm~0xPtSqO4Kzm00zxFWRRmQsoVeP9MYxMPVgxAgN1VbxbuN4YMM6wX6BTyeBRrbSdw9K8cUdhb3FnK8htrSupfzT9M3HPCvesA9-fHNobHwH7ux2kXaecw445RCfA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-twisters-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670aa9f6b97a0bdd96fd158e"
+  },
+  "title": "Sisu",
+  "release_date": {
+    "$date": "2022-01-07T00:00:00.000Z"
+  },
+  "rating": 7.5,
+  "overview": "During the final days of World War II, a former Finnish soldier discovers gold in the wilderness. As he attempts to bring the loot to the city, he must face off against a Nazi death squad determined to take it from him.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BYjAxN2RmYjktMDE2OS00MWM5LThlZTQtZDY4YzAxMWQyZWY4XkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg",
+  "genres": [
+    "Action",
+    "War",
+    "Adventure"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "6708758d4d96e86e905c2e95"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    }
+  ],
+  "vote_count": 659000,
+  "views": 1200000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BZWExZGU0YzUtMjcyMS00NGVmLWEyMTAtYjRiYWMxYjY5Y2M1XkEyXkFqcGc@._V1_FMjpg_UX1280_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi745456665/1434659607842-pgv4ql-1683869940554.mp4?Expires=1728838457&Signature=G4D3syzkEQVskmDMMYmZdfJkWPa3eZPNjJRtFJNOD3MwOZ~0bsHtpZbTnB04YwojKWIBPT4a-fwn90we~WuBMp1pVMjJ5n6~q2DOnyOiAFlWz6Vmj0a9JA9TdpJixZZEMcN0csrx39Z81EhiiYb5NlQpFYPLoDzQkaCVsYhoQme9gvmn60BHG3z-kma6i~qoi0qHwmMV9ornTYsE~g0g1JaqcqvDNWaXbTxpL0LRYfdd2FW6nz~NHtdb07ryR1yDihok2qtBqSduy3mCYIjwiul2CDZiM~L7kfdgtNYaFKSd1LsEKBEIXb1nW3ayxTfL8gafOEo3a7csFtrKVBTnoA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-sisu-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-8/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670aadae9205015c001a6c0e"
+  },
+  "title": "Land of Bad",
+  "release_date": {
+    "$date": "2023-10-19T00:00:00.000Z"
+  },
+  "rating": 6.3,
+  "overview": "A small team of special ops soldiers must navigate hostile territory in the Philippines after their mission goes awry. With the odds stacked against them, they fight to survive and complete their mission against a deadly insurgent force.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BOWI2YjMwMGEtZDJlZC00NGVkLTk2OTktMjhjNTZiNTIxOTg3XkEyXkFqcGc@._V1_FMjpg_UY12076_.jpg",
+  "genres": [
+    "Action",
+    "Thriller",
+    "War"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "6708757f4d96e86e905c2e94"
+    },
+    {
+      "$oid": "6708758d4d96e86e905c2e95"
+    }
+  ],
+  "vote_count": 15000,
+  "views": 900000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BY2I1MjhmZWYtNjU3OS00ODk1LWFkMGUtMjM3OWIwNmJiYThhXkEyXkFqcGc@._V1_FMjpg_UX1280_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi3222128409/1434659607842-pgv4ql-1703029369967.mp4?Expires=1728839395&Signature=Q61Zj8KpI7r-1jchErIxwJB3coHDlERyHAq61AV4ieJQb7YMGwnr0Dyd54U3OFAgeMtwG0ddF7PixVzIHhUmPRYchVH97aqJx2IYxHIQ~6a0gvUKVKKZyn7virV~p9B4sOZkx1grT5INTSiVKSvZgmPxkKvT6o1Osa7G2e-WbC55SW9nA3e2Oy~aYg7EgjROzJhOv~uRrHtSWlppNdtcaGCgh70BGiNiH4c3cFMllY5pVq3VGtpK88YFD0EFXXUIncaeEbETBnuGvIrl21pL6xa0c~CU1EFZtvgccV2DPeAcKexMcImhXnRjTOBFiq8JEm8js1Ncf4qVG4kTeMqsZg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-land-of-bad-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ab03e9205015c001a6c12"
+  },
+  "title": "Borderlands",
+  "release_date": {
+    "$date": "2024-08-09T00:00:00.000Z"
+  },
+  "rating": 4.4,
+  "overview": "In the distant future, a group of misfits searches for a powerful alien vault filled with advanced technology on the lawless planet of Pandora. Based on the popular video game franchise, the movie follows their adventures as they battle monstrous creatures and dangerous factions in their quest for survival and riches.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BMDhkMzQzZmQtOGQ1NS00Y2FhLTkzYjAtNWE1MmRiOWM1MjUzXkEyXkFqcGc@._V1_FMjpg_UY11100_.jpg",
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Adventure"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670875694d96e86e905c2e93"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    }
+  ],
+  "vote_count": 59040,
+  "views": 500000,
+  "photo": "https://thecraggus.com/wp-content/uploads/2024/08/borderlands-1.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi1880933913/1434659607842-pgv4ql-1721837674823.mp4?Expires=1728840579&Signature=aJ-HMWk6RU3h2H3mXIBEIl4vAx2H5x0Zj9XEpmZR58poHRA-nNA2pJhtfC-VbTCTNp7l3VXB6g7W9AYn71BDVNRi6uJd5hKYN7FLWGJQlfoZHmqI-yFUNXTC-auez3IfO7RoF1Egxf9uwOADAV5WsiJaahCff2U6~d~ZJ5zat1MinB-iz6tp37qMvyr9wk3dbnTI~10rdhuCiZDdbyvEo8mP8DwI3VGn1wtqkq0xCMJPiVKPwCh4ImXu~~kLFJSUONEBupOJUoPOYgzTTe4QYmcygGNXOdcnU8BVAoq2w76rOm9jDH~L3B0sPgp1Hj4B6aafEJuyu5uVYM1zC73dMw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-borderlands-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86-4/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ab5159205015c001a6c17"
+  },
+  "title": "Boy Kills World",
+  "release_date": {
+    "$date": "2024-01-12T00:00:00.000Z"
+  },
+  "rating": 6.7,
+  "overview": "In a dystopian world, a deaf boy discovers he possesses extraordinary powers. He embarks on a journey to find his place while battling evil forces and uncovering the truth about his past.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BODMxNjFlMzYtYjg4NC00ZjIxLWIxODgtMDMxY2ViNTI1NDFlXkEyXkFqcGc@._V1_FMjpg_UY2000_.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    },
+    {
+      "$oid": "670874eb4d96e86e905c2e8d"
+    }
+  ],
+  "vote_count": 60000,
+  "views": 100000,
+  "photo": "https://www.nerdly.co.uk/wp-content/uploads/2024/08/boy-kills-world-4k-cover.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi3803825689/1434659607842-pgv4ql-1708618374208.mp4?Expires=1728841244&Signature=k1c7wiYljMAsFf~VmitKxaSHGYQ7rT7QwNSjZGl-BMIbW1DItwX8j4QEu8j5nuQzblTfPkwAFXiasVnLIyIPQVLjUXpBnjEtS~pHuZ6N4MrUX17oon7e~WkIIE6c2aWts9FX0qnZRgyEwo9iYRgIcrQhMCO1eNp-pWYmk9TLXS9Vza0wBX9iKn4YehTn-3VLz1-rQHV5O6tg7PzQCz11k1g6EvEuA2OL4xEMDE3f78s2ual1laqbWhdUMRLMrFR3m7WRbAbqSaUDEt5223PQng5jqNy-WXmPWGZDtUBccf82oB41AtZz-NzTfZsA5f55QRQk6qph1XJ5MxVF664Amw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-boy-kills-world-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-6/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ab7959205015c001a6c1c"
+  },
+  "title": "Deadpool & Wolverine",
+  "release_date": {
+    "$date": "2024-07-12T00:00:00.000Z"
+  },
+  "rating": 8.3,
+  "overview": "In a chaotic world where anti-heroes reign, Deadpool and Wolverine team up for a wild adventure filled with action, humor, and unexpected twists. Facing off against new villains and old foes, their banter and camaraderie lead to epic confrontations and hilarious situations. This film promises to blend the irreverent style of Deadpool with Wolverine's gritty determination.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Superhero"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670874a74d96e86e905c2e8a"
+    },
+    {
+      "$oid": "670ab6933c20b8313f9d0d45"
+    }
+  ],
+  "vote_count": 487010,
+  "views": 1000000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BMWE0YzkwNDktM2FjMS00NWVhLThhNmUtNTY5MmI1ZjVlNmFlXkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi320390681/1434659607842-pgv4ql-1721399751395.mp4?Expires=1728841882&Signature=Ua5-h2~FeVfKIfVeH~3w6iHxehCoZ0I7t5yirMsG7PCEB8PR62WzORHK5QWeBLryFBSSsg4LvakzhDmoGSh3oT1-7W87rCSavGcGL5hPlLO-FPxA-Kfy1kVTz9xjWZuxlw2IeHg0aIdrhNNhoyEiWHplgOYutmCXOkw7n-B9xtLswKrMapQTpsTWKuD2ZtWfiLd-IwU~afoW1X-eZwgMYPOTXCmzGZ09XxfBbKJPd1xcVkRTiP-sZC1Kz5bfOY1~BOhWREoO9MQrU0UgyUpAaOvll~zw2zYeXvTVPZdeEDGo275fKlCNAgAWENAfkGLaldPDSJAIaiNq56u~jJOVKw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-deadpool-wolverine-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86-13/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ab9a29205015c001a6c21"
+  },
+  "title": "Ghostbusters: Frozen Empire",
+  "release_date": {
+    "$date": "2024-12-20T00:00:00.000Z"
+  },
+  "rating": 6.3,
+  "overview": "The Ghostbusters are back, facing an icy threat that could freeze the world. As supernatural forces unleash winter chaos, the team must unite to combat malevolent spirits and uncover the mystery behind a frozen empire. With their signature humor and high-tech gadgets, they embark on a chilling adventure to save New York City from an eternal winter.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BNjcwMWQ4NTktODU5OC00NzBjLTg0Y2MtZTRjNDkzMjZmOTE4XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Adventure"
+  ],
+  "categories": [
+    {
+      "$oid": "670874a74d96e86e905c2e8a"
+    },
+    {
+      "$oid": "670874eb4d96e86e905c2e8d"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    }
+  ],
+  "vote_count": 333350,
+  "views": 800000,
+  "photo": "https://www.ghostbusters.com/assets/images/fullbanner.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi2325988889/1434659607842-pgv4ql-1709309418239.mp4?Expires=1728842502&Signature=a12ibW7ncad5sVc7jFUzHWQZhkeRLyU2YlDfSTkLTD~k3SzhqA8ZYdWuLROTfLwwhH6XbluI-EgaKLmpnoaIzfk8N8hBfJ4PWvVdzF-wI-k5VBX398QA4Gh3Tj4Yoj4ICOWm6m08xr1ryYz-TXZxeZx8V8Kqe7A4bHMKCQxVNYRTp7-xFUBWrpVYvuczPiGgGzvvnArSR2HOdjMrWCIOLc~R3fFg205G5PzJyOU-wnwWLLcI6Z3PUxHOygJBv6CJvYml244qe~KFLMM3eGLVv1qDvtmLJqFDUMv3oN9ZSYK~I0PuAD7x7UfyPidcnZ0P2Rc3UviSTH3mWthAGK8AlQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-ghostbusters-frozen-empire-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-10/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670abc5c9205015c001a6c26"
+  },
+  "title": "Kingdom of the Planet of the Apes",
+  "release_date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "rating": 7.2,
+  "overview": "In the next chapter of the Planet of the Apes saga, new threats arise in a world where apes and humans struggle for survival. Following the events of 'War for the Planet of the Apes,' the story explores the evolution of both species and the challenges they face in a rapidly changing world. With themes of power, survival, and unity, the film promises an epic adventure that will captivate audiences.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BZDRlZTc3YTItOTk3Yi00NmU4LWFiOGUtNjgwMDZjNjIzNTU1XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    },
+    {
+      "$oid": "670875694d96e86e905c2e93"
+    }
+  ],
+  "vote_count": 570550,
+  "views": 2000000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BNjMzNzk1ZGQtMjEyOC00ZjZkLWE4ZWEtMmIxM2M4MWExMDhhXkEyXkFqcGc@._V1_FMjpg_UY2000_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi904447513/1434659607842-pgv4ql-1714495080297.mp4?Expires=1728843137&Signature=Ok1cwaqS7IB-8fYCS0TWt07d36K9FL0KocGX8dCocM~G50Am9lc1W1EdP3RIUIxVewpQGR-P4aQW9SDiiMg6A3N2Gb7Wq99g7He48k0mGIOt-eAwvRS2jZAwgr7sIPRM8lu~QprqPaTbDXwfVgPlLiW7PfBxhuJCfzZwGxLZS6eHkobnqIcohXb1xFoygzRJkxAq8VNoo6Mw80Fj~Sh9pNANHMfGa1~mHxu~EJwEM5pWknR~CQagsQFur4~ucnnvcZkV-kf7yE2RijA0jGRgNPBhww1hR7DmmEtlonhf3doquLHnBHwoBXg7YXo9py2POu3pBVnfxXfwiYylARnLaA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-kingdom-of-the-planet-of-the-apes-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86-14/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670abdf79205015c001a6c2b"
+  },
+  "title": "Monkey Man",
+  "release_date": {
+    "$date": "2024-07-12T00:00:00.000Z"
+  },
+  "rating": 7.2,
+  "overview": "After years of living in the shadows, a former special forces operative is pulled back into action when a deadly conspiracy threatens the world. As he embarks on a dangerous journey, he discovers a mysterious force that transforms him into a powerful entity known as 'Monkey Man.' With his new abilities, he must confront his past, battle formidable foes, and fight to save humanity from destruction.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BOTJlNzY5OTAtNjIxNi00MTUxLWJkZjEtZDcxYTg2YWY0MjZkXkEyXkFqcGc@._V1_FMjpg_UY5000_.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    },
+    {
+      "$oid": "670874eb4d96e86e905c2e8d"
+    }
+  ],
+  "vote_count": 187210,
+  "views": 1050000,
+  "photo": "https://pics.filmaffinity.com/monkey_man-172706747-large.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi2996618777/1434659607842-pgv4ql-1711035192618.mp4?Expires=1728843528&Signature=P2-tmFePKZnG8SlqEDGF516CAc-KY238PghDrdOw8q28JT8cQmZhmLKOByXGTuoBK3ocGUfX47tpXZSCJ7gydStkBtjvE40NsDUeWl4WyVUmNwmYFdaqaf1Mi1xFeDN7ZFIkNcXR1enuJRcI3~~q6XBOFRQ3jl4l8Q1c26~oKrLrKowxCNnnH5LZzWn2zO-TEkJtuwKYguv4ct14fiiZBc8abLjG-veyZ6RnulMohN4OsuawByayhbSFT3WCfQwwvqPxSnxCzHV2bhcAWcG5pBQiLNPN5oahQHMmSo-PO59Vd-MMbI-lNO7kZqv74wUl1x5URzRkK5JyueyAfa4aUw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-monkey-man-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-4/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ac0869205015c001a6c30"
+  },
+  "title": "The Ministry of Ungentlemanly Warfare",
+  "release_date": {
+    "$date": "2024-12-06T00:00:00.000Z"
+  },
+  "rating": 7.3,
+  "overview": "During World War II, a secret organization known as the Ministry of Ungentlemanly Warfare is formed to wage a clandestine war against the Nazis. Led by Winston Churchill and a team of unconventional fighters, they employ unorthodox methods and outrageous tactics to disrupt enemy operations and change the course of the war. This thrilling tale blends action, humor, and espionage in a battle for freedom.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BYmIxODc5ZjMtYzZmZS00OTE5LThkZDktNWNmODNiZjFhMDgyXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+  "genres": [
+    "Action",
+    "War",
+    "Comedy"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "6708758d4d96e86e905c2e95"
+    },
+    {
+      "$oid": "670874a74d96e86e905c2e8a"
+    }
+  ],
+  "vote_count": 850120,
+  "views": 500000,
+  "photo": "http://www.impawards.com/2024/posters/ministry_of_ungentlemanly_warfare_ver11.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi4099720985/1434659607842-pgv4ql-1706627184107.mp4?Expires=1728843970&Signature=l48wMRt-fFesxAqWj~isQki4v6FG7pujO-5b6pZEwT--NwZAEnK5SuQ214Hj8zZMKatC~7ZbX7d4jZvOPF0WVhOdT1DaQ8ZmiYlAeIWsxta6MBABbEXcz48a7zdM~J~6J38p~OWz8R3EhA-S7Ozu2aSG75RVOCzpGwo9XedZLsj8jwdUbKzAvvlWrbyrrgCiSS1wyOLCSUS9tgzzgHHb5dNZULNu0ZfkkzU70uKemMx6czikO2wycdG5MPcr56vOvWF43SOWLCPfO18CMUMXeCQ5RBkuELIDMAZ9I9R1m8b~RZfCzhRrYVzr2cLDQAhCJRFKOqwpCM47h-ryvldkmg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-the-ministry-of-ungentlemanly-warfare-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ac2879205015c001a6c34"
+  },
+  "title": "Uncharted",
+  "release_date": {
+    "$date": "2022-02-18T00:00:00.000Z"
+  },
+  "rating": 6.5,
+  "overview": "Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor 'Sully' Sullivan to recover a legendary treasure. In this high-stakes adventure, they embark on a globetrotting journey filled with puzzles, danger, and betrayal as they race against a ruthless competitor who also seeks the treasure.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BYjQxYWNiNzgtOTc2Yi00OGEwLTk5MjAtODdiZTk0ZDJlZGY4XkEyXkFqcGc@._V1_FMjpg_UX675_.jpg",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    }
+  ],
+  "vote_count": 85000,
+  "views": 3000000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BZjJiNzgwNzItODhiNi00YmUxLWIxZjAtZjg3NjcxYWZkYzc0XkEyXkFqcGc@._V1_FMjpg_UX832_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi420201241/1434659607842-pgv4ql-1644274969357.mp4?Expires=1728844551&Signature=c8xbl473Cf24JMgj3AykwYAKhbG4bmov0mO8Y-O7TuA0FcsBgIzDlGBaTxolYdxqvBTrmoaQH872BPz4M4feHmb3Sywo2uwc3vrNH126oHLo4Hi5FmnUqTMNKiPHtdsIioWvZ-ok23dqUdY1fk1zfIYqjjjuvJtQb9tJcRW4HoAf53VPfG7vFlTCXhgOaddnDMrhTUNO7dhdcIb3LhwZL9CtV~Z5PFtrMJmPVL19DeTcEseYUXVRlIWRSeA-qTPXg67FL8vcBVGLvBv4xk96vsVl7pzbT6Qys4OpfgVrcxWe33VOOYyv3N8E4aRHBmM79bNecU8g5zgdudsagdx7~Q__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-uncharted-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ac51e9205015c001a6c3b"
+  },
+  "title": "Furiosa: A Mad Max Saga",
+  "release_date": {
+    "$date": "2024-05-24T00:00:00.000Z"
+  },
+  "rating": 7.8,
+  "overview": "Set in the post-apocalyptic world of 'Mad Max', this prequel explores the origins of the fierce warrior Furiosa. As she navigates a treacherous wasteland and faces brutal factions, Furiosa seeks revenge and struggles for survival, ultimately becoming the legendary character fans know from 'Mad Max: Fury Road'.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_FMjpg_UY4096_.jpg",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    },
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    }
+  ],
+  "vote_count": 894650,
+  "views": 264050,
+  "photo": "https://m.media-amazon.com/images/M/MV5BYjYxZTJkMTItNzNhNC00ODYyLWIyMWYtMDNmNWIxZDhhMTg1XkEyXkFqcGc@._V1_FMjpg_UX506_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi618513945/1434659607842-pgv4ql-1716214460509.mp4?Expires=1728845434&Signature=H5V8iSq~QWG0Hxjx24~66poGu2jFW8u4KiUb-GynyIAu8Wv2az9G-Ly-fPqWlgNYtM0E~XAXtwtoV7V5EuqWNdy5Bu1G5R8YGHrCuDzIQianfa9lO7Gwg6sTlzmK40Kn4YqWU4dVqdURBseFb73Cf-fNmeQIOfKarLr3GIb5-FfQJkSX7DIfUjjPNId49qSACR86UF1~g-UphYwWAeL4JYazHXUjKMic15Boc05ZbeIXvKRRo5WTYX2IulOOe57C7YLqdmtB-APE70q4OGwwsIwXQH0zoHSVck-MpEUvcmDcYXVOw5DDseOlRMbCghtKIa7sNKxb9Z3lp5A68NHRVQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-furiosa-a-mad-max-saga-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-3/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ac7899205015c001a6c40"
+  },
+  "title": "Leo",
+  "release_date": {
+    "$date": "2024-11-01T00:00:00.000Z"
+  },
+  "rating": 8.2,
+  "overview": "A coming-of-age animated comedy that follows Leo, a restless lizard who escapes from his terrarium and embarks on a wild adventure. Along the way, he discovers the importance of friendship and self-acceptance while trying to find his way back home.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BNjg5ZWY5ZTItYzhhZi00MDE5LTg5NDgtZGM4MWI3NTgyNTZhXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "categories": [
+    {
+      "$oid": "670875b84d96e86e905c2e97"
+    },
+    {
+      "$oid": "670874a74d96e86e905c2e8a"
+    },
+    {
+      "$oid": "670875d14d96e86e905c2e99"
+    }
+  ],
+  "vote_count": 24210,
+  "views": 92403,
+  "photo": "https://m.media-amazon.com/images/M/MV5BNTYzZTNmZTUtMTliYi00NGI5LWI0ZmEtZWMxNjg1MTUxMjcwXkEyXkFqcGc@._V1_FMjpg_UY2222_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi4123248409/1434659607842-pgv4ql-1697124710061.mp4?Expires=1728845911&Signature=HnxJS0thWs6X5XbOHge7z0NFXVO8UCJ2UjSU1BkIU65SU4F9tBiN8Bz2obUST~YlqACUGYXYjdMQIpONU5LhIdrgdkXJBKrl8e4OVIstJQZ-gxoDS7Eq2Y-~KTFU2IuIM2iE~bohFwprbWt3zb1XZP0psc3n0tpTTIRenxAd6eW3uM3jMrTJjjXF4Sx6XBBUDfOjTKRtECCJ9eIV~KlwUXj-2PjKAuT4Dw0P1AOq71OkkSIMfNbxt-3TbvHNXRPDjL8tRRDOqx0sBYlIDt4tAZUuAGC0Oz91QMJdqdBvqwdu9n~TC50d8WIxmEWUzI3I~aL5Na-HqPP~yjubNCR4aw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-leo-2023-%d9%85%d8%af%d8%a8%d9%84%d8%ac/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ac8379205015c001a6c45"
+  },
+  "title": "The Sea Beast",
+  "release_date": {
+    "$date": "2022-07-08T00:00:00.000Z"
+  },
+  "rating": 7.1,
+  "overview": "In an era when terrifying beasts roamed the seas, monster hunters were celebrated heroes. When young Maisie stows away on the ship of the most legendary sea beast hunter, she embarks on an epic adventure that will change the lives of her, the hunter, and the world.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BZDhjZmY1ZDEtNGQ1ZC00ZDgwLWI2YjEtMWFiOGY3M2Q2YWViXkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "categories": [
+    {
+      "$oid": "670875b84d96e86e905c2e97"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    },
+    {
+      "$oid": "670875d14d96e86e905c2e99"
+    }
+  ],
+  "vote_count": 12000,
+  "views": 5000000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BODA4ZTk2ZDctODQzZS00YTk5LTg4NzMtZWZjNDRiY2Q1MDhhXkEyXkFqcGc@._V1_FMjpg_UX450_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi3169501721/1434659607842-pgv4ql-1654618398126.mp4?Expires=1728846239&Signature=r2d0kF5E-2Mwa9kBdOrKOudES7NnbkfS5CG19DnSb420evpNmxUmlPQkcC5YPmk1XLrA8wRBTUenXBZ5GsbUqgwwzhVdQnmHZ-4YIb-2u5cPp7so4esnd32BgmJNpRHlPUInSZ0w1tqahnExKd6yy1HFSR-O~XKNn-M3pG8lHUCN2i3qnd9nCTkSyAGQ8dFmgETuq9eMB2T7BYaTwDNOi4pOu4-FWFVTKhm3TpfYV-O4mIPiw8cIQ32i~bbaDt2NCoHD7yma2VBCLkzy6PwZj6XYNxPXhaLsB8XOjgvinZkI5-HYvNcCCO4RTPqgkP-6Y~4EYQF9ouFfSpmCag8RxQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-the-sea-beast-2022-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ac9719205015c001a6c4a"
+  },
+  "title": "Luca",
+  "release_date": {
+    "$date": "2021-06-18T00:00:00.000Z"
+  },
+  "rating": 7.5,
+  "overview": "Luca is a young sea monster who experiences a life-changing summer on the Italian Riviera, where he forms an unforgettable friendship with another sea monster named Alberto. Together, they explore the beautiful seaside town and learn about friendship, acceptance, and the power of embracing one's true self.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BMWMyNGNlZTktODVkNS00ZmMyLTk0NmUtNWVjOWU1MWMzZGMzXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "categories": [
+    {
+      "$oid": "670875b84d96e86e905c2e97"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    },
+    {
+      "$oid": "670875d14d96e86e905c2e99"
+    }
+  ],
+  "vote_count": 60000,
+  "views": 4000000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BZWEzNTYyNDYtY2QyYy00NGQxLWIxNGEtM2E4MGM5NjZjMDM5XkEyXkFqcGc@._V1_FMjpg_UX1013_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi3001794585/1434659607842-pgv4ql-1619615831382.mp4?Expires=1728846544&Signature=X4lLb35LF9RvsxkL5E1YXwbo3mdbonq7zxpAoCPZ9u5Ts~QsFuI3TlWeB72V2QRosHUy3ZoLgn3mOS~gSSQ~aUFRr0ACUT4BskGq9cfllmtWPcNi0KpceSQkQdu3BiWsrWR4wbpD4C1VxW7MlNYLAF8V69nQQzQaP1-2mSucH8kLjwLyWHPfUOfYZUbcTgf3Tm1G-vp4GEaVQsuvuuP7FQXrhfszCzYVZTsL9Dh-HW0Ve1TlDCYCTtmvhKboG4yJBbWlvr8YHtwrVHg9mIoBpiC9E5ANRVhoomSB6j1QKdJ2F7-IapDPS8kr00I8hgOea3j5j41YWNxTmQoi51ZnMg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-luca-2021-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670acad89205015c001a6c4f"
+  },
+  "title": "Soul",
+  "release_date": {
+    "$date": "2020-12-25T00:00:00.000Z"
+  },
+  "rating": 8.1,
+  "overview": "Joe Gardner, a middle school band teacher with a passion for jazz, has a near-death experience that separates his soul from his body. As he journeys through the fantastical realm of souls, he must navigate the challenges of finding his way back to his body and discovering what it truly means to have a soul.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BZTZkYjA5MDEtMjY1ZC00ODk5LThjOTUtZDYxODEzYWNjMTU2XkEyXkFqcGc@._V1_FMjpg_UY2222_.jpg",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Family"
+  ],
+  "categories": [
+    {
+      "$oid": "670875b84d96e86e905c2e97"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    },
+    {
+      "$oid": "670875d14d96e86e905c2e99"
+    }
+  ],
+  "vote_count": 75000,
+  "views": 3500000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BZTY0OGM1YTItYzFlOS00NTQ2LWJhZDAtMmQzNDJiM2ZhYjkzXkEyXkFqcGc@._V1_FMjpg_UX950_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi1257423129/1434659607842-pgv4ql-1602720433663.mp4?Expires=1728846906&Signature=Rq9rM31kD-mn~WrTxvEhpIpFwv5G2z2sRO5~B7ISyEi3uwBLXDHM~EQ2vXp2hGOx4SdUXUbPgdo3jHO8w2iwGomqD5zwkDXat4wpCo2kxmxA7pc1bB-pJMTIBYPjcNPmFCOyHL4AlBBcib1mo-OdRrynpjiuS2DXSmzrAaR~Y5rDvpegBGGy18qJiOL4ftdToSAFcatEwVkEBiSauee78cJdQiWdEdXo3hK7SoiMG2aQh9JhSU77sIxR3FCpwGyQ42zy2fHBnndr0mpOnyOyP806sybyhzDzgXi5QO4u9pm5EHhCbOAnNYZWl9XvE6wA4IS3zoGQW88ESv14IoavUQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-soul-2020-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670af255befd43448a680d4b"
+  },
+  "title": "Salem's Lot",
+  "release_date": {
+    "$date": "2024-09-09T00:00:00.000Z"
+  },
+  "rating": 5.8,
+  "overview": "Ben Mears returns to the town of Jerusalem's Lot to write a book about the eerie Marsten House, only to discover that the town is under the influence of a powerful vampire who has returned to reclaim its dark legacy. As the body count rises, Ben must rally the townsfolk to fight against the ancient evil threatening to consume them all.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BMTVhN2Y4NDAtYjFmMC00YjI3LTgyMTctYmNmZDhjZmU0MGQ0XkEyXkFqcGc@._V1_FMjpg_UX810_.jpg",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "categories": [
+    {
+      "$oid": "670875074d96e86e905c2e8f"
+    },
+    {
+      "$oid": "6708757f4d96e86e905c2e94"
+    }
+  ],
+  "vote_count": 51250,
+  "views": 1000000,
+  "photo": "https://nerdinitiative.com/wp-content/uploads/2024/09/Salems-Lot-803x420.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi3647981081/1434659607842-pgv4ql-1726158031023.mp4?Expires=1728856639&Signature=UJ6YV~o9zNVxTlLWvM3CQKeE7MgqbeUANBoodAWTXQE4uzPE0C3d3hBIGX2hGzt4ym-gcuuZiZzkzDcZot64MGVPEkQA4sURC1frC-vxlYw0Brcpc8UbGmq-Fo~r-eVvgYNImnrimFhjmq0kcnAmKuIoFuyK6O1IPCIufNS2wdDI-r3KJxEqINsVe9~TGHdH09D0TXolQ-lRqQBui3R1-JZ1F0JMZBOv78Rhtnwe0auMYot6VD3NgNeEE3DWbtki3qPKFa4CmogNe-E8y4-eEoHM2V0r8ug1I1DsOrVgGLzDhLE~GQLc2~zDdluU0eAaE0FtWrqpXRqvIpMiph6dzg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-salems-lot-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670af8dabefd43448a680d4f"
+  },
+  "title": "Terrifier 3",
+  "release_date": {
+    "$date": "2024-10-25T00:00:00.000Z"
+  },
+  "rating": 7.1,
+  "overview": "The sadistic clown Art returns for another blood-soaked rampage, terrorizing a new set of victims in this gruesome third installment. As the body count rises, survivors must confront the unrelenting evil and fight to end the nightmare once and for all.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BNzc2MWUyYzctY2E4Ny00ZTlmLThjNTMtMTViZGI5NjcyN2EzXkEyXkFqcGc@._V1_FMjpg_UY2963_.jpg",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "categories": [
+    {
+      "$oid": "670875074d96e86e905c2e8f"
+    },
+    {
+      "$oid": "6708757f4d96e86e905c2e94"
+    }
+  ],
+  "vote_count": 248752,
+  "views": 500000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BNmQzNzc3ZDAtZTEyOC00MDgxLWEyNjctY2QwMzZkNThmMzU3XkEyXkFqcGc@._V1_FMjpg_UY6001_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi2741880345/1434659607842-pgv4ql-1726000876586.mp4?Expires=1728858134&Signature=iZj66wtqJbWgCZmyptdfnYQdYf-QGGQ3LCvlJ0vlNa0zAFQGGT5Eby6kMFgdlQbjwwkWiqYkZtkAnkVQv2kmkvvwt3PLUgjnKvPMxIH79cwHomh~Kf-WXSkXEKYK~6IgfT2xFL5btkscmAlvtzMEz2jdQn8DI1S6XZeGcIQccAmkg0aU359UgYAzX~MUe9i1L9f9goYtn3FRXWEmoipwIyXHGhHa5fvqmRBIRMjfWLsTT1KjSh0jmKfGJijRH-Wkswz4awU7QVFV29J7c658XTPRMEiz5GT9zO7aDTpmR2yUSZ4xeHsVEK8HCzvlxWDLquBy8NBpq1YczH86CYxEKg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-terrifier-3-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670afc27befd43448a680d53"
+  },
+  "title": "Blink Twice",
+  "release_date": {
+    "$date": "2024-11-10T00:00:00.000Z"
+  },
+  "rating": 7,
+  "overview": "In a high-stakes psychological thriller, a woman becomes entangled in a deadly game of survival after witnessing a mysterious crime. With her memory slipping and danger closing in, she must uncover the truth before time runs out.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BMzczYmQ0NTUtMTM5OS00Mzc4LWExZDYtOWE4YjRkOWJkYWRlXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+  "genres": [
+    "Thriller",
+    "Mystery"
+  ],
+  "categories": [
+    {
+      "$oid": "6708757f4d96e86e905c2e94"
+    },
+    {
+      "$oid": "670875314d96e86e905c2e90"
+    }
+  ],
+  "vote_count": 81870,
+  "views": 300000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BZTM2NTI5OGQtZmRlMS00ZTc1LWIwMWQtN2YzZDRkZWI5Njc3XkEyXkFqcGc@._V1_FMjpg_UY3840_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi1424016921/1434659607842-pgv4ql-1713891389964.mp4?Expires=1728859191&Signature=kYoO3Ve4u7voZ0KueMHPL9cS8bhZcViwL4QxfBBhUMFH~EsQY-y~zm0-Qg-Gd0jpjvERRfgVfe4LM5QKS4ShdsvKV-Tp3k6E228C5yuSKGcw0IJh8RyaXxAl69UjkCGFl4gTWtq6Pg7sjDL516pJAbX1Zk5hMgS-F8LT9TgZw4R33xWBw2gNwHUAhYAuCd8hZNl1pHOafq3nGmdmqh7LOLzuxC7wXnflM1UxJP1NWRLu4wm4dtMHOTpKh6gfq0N0FLFJtyAeKlxGf2SjJtjFe7~WeCeggDdVP3xrnhP3Cjlj~IN~f9bYXcPG339wJ~L5Zz6Irv3YXeWp~f9ix7Wy8Q__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-blink-twice-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-4/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670afddfbefd43448a680d57"
+  },
+  "title": "Killer Heat",
+  "release_date": {
+    "$date": "2024-07-19T00:00:00.000Z"
+  },
+  "rating": 5.6,
+  "overview": "Amid a scorching heatwave, a small town is terrorized by a series of mysterious murders. As temperatures rise, so does the tension as a group of unlikely allies must work together to uncover the identity of the killer before more victims are claimed. In this gripping thriller, survival hinges on uncovering the truth before the heat consumes them all.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BYmI2MzhmZmEtZjMyZC00MzJiLTlkZTEtNGNhZDEwYWVmMWZhXkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg",
+  "genres": [
+    "Thriller",
+    "Mystery"
+  ],
+  "categories": [
+    {
+      "$oid": "6708757f4d96e86e905c2e94"
+    },
+    {
+      "$oid": "670875314d96e86e905c2e90"
+    }
+  ],
+  "vote_count": 78020,
+  "views": 600000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BYTcxYTU1MTYtZWNjZi00ODI5LTllZDAtNTY4ZWIwMTk1ZmI1XkEyXkFqcGc@._V1_FMjpg_UX510_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi3748644377/1434659607842-pgv4ql-1726159485756.mp4?Expires=1728859609&Signature=rF6SjsPMR4yTYM~OG-slRXjsNZemiPNhnGMMDsMDJiB43FtTOtFTl6fBrGFiarzTRII6DjBP7xfaxYN2AzGBtrGlluqdkVrL8IbWuTE1ERxoBoM0Wbkn6rqi0sW0KA4xMgwhp8WZuALsPEfVvIKmM11zmWf5pqlQdP0YlePk5tZ~uFnGkDgAm2JrxsCE8haOCJt2daT8KHyb1qPQkG8djRDfOp7mNL-iasQz2p5xC47uJK1JMIx7Bayhr6VxqIK1S1hCa8ZVvNA2P744OZK7~CF1-YDBMeUVlHdaQM1B373r9XnavE5lTFwJEEiNRnjpEVuwYM9l3XqtxgkRE27pFQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-killer-heat-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-1/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b0108a9db3c91ec374d95"
+  },
+  "title": "The Dark Tower",
+  "release_date": {
+    "$date": "2017-08-04T00:00:00.000Z"
+  },
+  "rating": 5.6,
+  "overview": "Roland Deschain, the last Gunslinger, is locked in an eternal battle with Walter O’Dim, also known as the Man in Black. With the fate of all worlds at stake, Roland must prevent the Man in Black from toppling the Dark Tower, which holds the universe together.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BMTU3MjUwMzQ3MF5BMl5BanBnXkFtZTgwMjcwNjkxMjI@._V1_FMjpg_UY2048_.jpg",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Adventure",
+    "Western"
+  ],
+  "categories": [
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    },
+    {
+      "$oid": "670874eb4d96e86e905c2e8d"
+    },
+    {
+      "$oid": "670874854d96e86e905c2e89"
+    },
+    {
+      "$oid": "670875a94d96e86e905c2e96"
+    }
+  ],
+  "vote_count": 130000,
+  "views": 2000000,
+  "photo": "https://i0.wp.com/theilluminerdi.com/wp-content/uploads/2022/12/p12676586_v_h8_ad.jpg?w=1280&ssl=1",
+  "trailer": "https://imdb-video.media-imdb.com/vi1690417433/1434659607842-pgv4ql-1499674013894.mp4?Expires=1728860406&Signature=meEJAtMHUNpwCiWDf-kQg5-R~kPUeueT4v04UTDBtliev-cjvOB2DtqTq4WT349QsYFT4fTVOLJNwH~CmEIR5gMFRGbc1Nkyon~~MSmP07Fd6KXVFjnhSBTIw1Jall2IRbWsiCPUI39e4EknmP0wK79~j-o290GWrePg4CVc2iaY0Sn~UNIgcNqw~WVkdwuptEjsEx347FlrYelQiFzRqjON5Ene9o55AkYXcarxqi9O2YwsXZOGmW6mafkd6~6yq3VaLrmA-Y-Fa3lGdOTW0fNocgrKDyb7IOIUks9a~WVD1kmBXitUwt5vEa~JMvLusT64LDLw9YJmAw34R6VOzg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://v3.shahidwbas.tv/play.php?vid=682f24a75",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b022ba9db3c91ec374d9a"
+  },
+  "title": "Django Unchained",
+  "release_date": {
+    "$date": "2012-12-25T00:00:00.000Z"
+  },
+  "rating": 8.4,
+  "overview": "With the help of a German bounty hunter, a freed slave named Django embarks on a quest to rescue his wife from a brutal Mississippi plantation owner.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_FMjpg_UY2048_.jpg",
+  "genres": [
+    "Western",
+    "Drama",
+    "Action"
+  ],
+  "categories": [
+    {
+      "$oid": "670875a94d96e86e905c2e96"
+    },
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    },
+    {
+      "$oid": "670873ff4d96e86e905c2e87"
+    }
+  ],
+  "vote_count": 1600000,
+  "views": 3200000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BMjI0ODg1ODMzNF5BMl5BanBnXkFtZTcwNDU2OTA3OA@@._V1_FMjpg_UY2048_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi2291574553/1434659607842-pgv4ql-1616202424410.mp4?Expires=1728861063&Signature=YldlzWVlPp4EgUhUEuYtQfCY~j15TfZdG1ruadwoBOflgOQU~BuiFiRc7nejkIea1PQiIUrhlEQSdzzptNHSjfZ76DIWiQ3vCmD8RNZ1fg5JcOa-I5I4KQs1R6xdQch5On2Bzdl7y8cPiDNCyZouVoh42EACeC3QVLfvgLngaQJZh~pxEU6Cct1gAQsG23rgHf~AOiXkWltONNnrPgYjBi3zaXdc25GPd~A2E3nqzYKf3tQsW8-QhZ7mpp41DY4SnbrygY8Ii68YXdKcsPCJCsdlUpA0f8csoC5L16bbsWIG1JpXB4YSRAzgdmdWXwuPph7nhxCo8aXF4Q3rksdX2A__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-django-unchained-2012-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b03c1a9db3c91ec374da2"
+  },
+  "title": "Killers of the Flower Moon",
+  "release_date": {
+    "$date": "2023-10-20T00:00:00.000Z"
+  },
+  "rating": 8.2,
+  "overview": "Based on true events, the film follows the investigation of the Osage murders in 1920s Oklahoma, where Native Americans were systematically killed for their oil-rich land, leading to the birth of the FBI.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+  "genres": [
+    "Crime",
+    "Drama",
+    "History",
+    "Western"
+  ],
+  "categories": [
+    {
+      "$oid": "670874be4d96e86e905c2e8b"
+    },
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    },
+    {
+      "$oid": "670874f94d96e86e905c2e8e"
+    },
+    {
+      "$oid": "670875a94d96e86e905c2e96"
+    }
+  ],
+  "vote_count": 500000,
+  "views": 1200000,
+  "photo": "https://i.ytimg.com/vi/7cx9nCHsemc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCOr64ZRE0h5NykaW__1LRQjVOQyg",
+  "trailer": "https://imdb-video.media-imdb.com/vi784910105/1434659607842-pgv4ql-1697547877645.mp4?Expires=1728861365&Signature=OXEbsbqYJYEYFarLkRECfA3~MHSmmF39vfRxLgmX9ajg-1TnSQ~YJhYFTu5Q31kZPZgkFr41Iz--~R~1ATDZmqRRx6MJFt29v3apZ3Z960hGPJV0lX-cxse9Fj5fE50dwk0o5j15YYYJ28xX1E3hLKJ86ysCxN~mP8RGZb413sN~WQkyjc5NnWIIh1aywr5Za~wYngjJd0rjXf2My519Iduvg60FyeapnDmBOePSO-oBxjhPhBuCA3DkumLd1qIixa4GLOUndKMGgF24IzbhYz0tFPi1rLlRBfbSIsu1U1xaYuigF-k93CGpx9fyNaHVFkkBF30EI1dBak-WcJd3AA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-killers-of-the-flower-moon-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-2/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b059ba9db3c91ec374da9"
+  },
+  "title": "Will & Harper",
+  "release_date": {
+    "$date": "2024-11-08T00:00:00.000Z"
+  },
+  "rating": 6.7,
+  "overview": "In this heartwarming drama, Will and Harper, childhood friends who drifted apart, reunite after a decade apart. As they navigate their personal struggles, they discover that their bond can help them overcome life's challenges. With themes of friendship, love, and self-discovery, the film explores the impact of past decisions on present lives.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BYjAwODVjM2QtNmVhNy00NjYwLWJhMzgtM2FlZjY0ZGJjZjQ2XkEyXkFqcGc@._V1_FMjpg_UX604_.jpg",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Documentary"
+  ],
+  "categories": [
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    },
+    {
+      "$oid": "6708755c4d96e86e905c2e92"
+    },
+    {
+      "$oid": "670875c54d96e86e905c2e98"
+    }
+  ],
+  "vote_count": 85420,
+  "views": 300000,
+  "photo": "https://assets.gadgets360cdn.com/pricee/assets/product/202409/Will_Harper_poster_1_1727259217.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi1953023513/1434659607842-pgv4ql-1725546707782.mp4?Expires=1728861860&Signature=uFUjYeLCTfjGe6eBVyPiD2RDrdAt6vQaD1jkXD5u~CnY7xnXs8ODUdwY-KQMgTyN6No0zm5FQmR4a95tSs~XQsvdFjG4MVLdDJ3FvcrXscTbkbX7VOapCIcu0PO7BPFbhAiDKt6-Uye9RzcFP-4ZQl0UnncW1wROQ1MSFgwAT8ad-z00rGQuQRIYV-Y~yj7r0Y9BBnmM20Pl5ojjWsvkcZELqC~8NhFu0jVYsg9soOYWyz1SFzyRhTS19e6JmEB8YMBH7pTeCyz0A7tHv0T4y2P6AZVUP~WNb2AHXKFPrpAcQHIls5K-xnJQEOl~~lZ20TsISiJmRRa~TG1YtcT3-Q__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-2024-will-harper-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b07aba9db3c91ec374dae"
+  },
+  "title": "The Menendez Brothers",
+  "release_date": {
+    "$date": "2024-09-20T00:00:00.000Z"
+  },
+  "rating": 7.1,
+  "overview": "Based on the true story that captivated America, 'The Menendez Brothers' explores the tragic events surrounding the murders of their wealthy parents. The film delves into the brothers' tumultuous upbringing, the subsequent trial that shocked the nation, and the media frenzy that surrounded it. With gripping performances, the movie examines themes of family dynamics, trauma, and the quest for justice.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BYTczNjBkYTgtNjcxNC00MzFlLWFiOWMtNDc2YTFiNDM4ZTYxXkEyXkFqcGc@._V1_FMjpg_UX777_.jpg",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Documentary"
+  ],
+  "categories": [
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    },
+    {
+      "$oid": "670874be4d96e86e905c2e8b"
+    },
+    {
+      "$oid": "670875c54d96e86e905c2e98"
+    }
+  ],
+  "vote_count": 45205,
+  "views": 450000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BNjU3OTdlNzQtMjU3YS00ZTM0LWJiY2MtMTg5NDE5N2Y3N2NjXkEyXkFqcGc@._V1_FMjpg_UX499_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi1397474841/1434659607842-pgv4ql-1728372129234.mp4?Expires=1728862474&Signature=N1P7BH8AJf7P1jMOwWeaKvgl~0q9EsCwGuo4p2F5uhme6v5bTpC8-~bNvbZazEMxp2W~36vnxWVgr7aiOabDUksvx7PpMic4lk0VI9ekQcS6n4~IjXwGdv2YSb~xNw3EXNaJ4b67DQF6JJdFeJUfAuWuOAJTQq8Bqubx74Y8II2UqYmoIB1jlbFHmf4lB1FHvCJ45Uhg8l5EBOfQADVLVt-a3uNK8nORXCr3jkOPCj0YPe1SoAHI5HE--dUrOc7ZL-PZZn~v1cofS6C7fA-FPewajTscR9hjNTUXKtB4uxsr10Xct1o1k1H3ru-4tbsvMDPfx5OltzNCE4FdinJJ4w__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-the-menendez-brothers-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b08fba9db3c91ec374db5"
+  },
+  "title": "Joker: Folie à Deux",
+  "release_date": {
+    "$date": "2024-10-04T00:00:00.000Z"
+  },
+  "rating": 5.3,
+  "overview": "In this highly anticipated sequel to the critically acclaimed 'Joker,' Arthur Fleck continues his descent into madness as he forms an unexpected bond with a new accomplice. Together, they navigate a chaotic Gotham City while exploring themes of love, insanity, and the blurred lines between hero and villain. This psychological thriller promises to delve deeper into the psyche of its characters and the societal issues that shape them.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BZTE0M2Q0ODgtY2U2My00YThlLWI1ZjUtNzBkMmU4NTQ2YzVlXkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Musical"
+  ],
+  "categories": [
+    {
+      "$oid": "670874d44d96e86e905c2e8c"
+    },
+    {
+      "$oid": "6708757f4d96e86e905c2e94"
+    },
+    {
+      "$oid": "670875e14d96e86e905c2e9a"
+    }
+  ],
+  "vote_count": 248240,
+  "views": 1200000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BNjhkNWNiYjUtMGI2Yi00NDgxLWE2OWMtMDJjZWExZDllNGY4XkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi1799538201/1434659607842-pgv4ql-1727707919891.mp4?Expires=1728862690&Signature=XXUEW4Vl8QwA85Gtjavp31HQ-V4phSx0pITF7M0CaId5ieOKkDPXRsWAFKwBtEQQFVb2AItp~teyOZNSP3ost8GnnXWw77yfFaC4guCjlxV3kOYtYace1D39ReFcA8OYlgcJoRPx7yLpivvGkVevriDYqH6xDe~wwEjARoqfKhcPMm5NCZGQd~ccTRyLgF~V336jiZeDD2VE7BPI5Fx7Hq3yVE~pt4a5gvIRYD44bK-CtVrnF9o5oopOMk4Q5ic6CVv5ZVaz21TBfb96awnnq6X374wzo25rOJeV4ps7aFFw4DKxcK6-8SAy~r6kY1Wi0lWqwt4j2WAqmeJFgq-a4A__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-joker-folie-a-deux-2024-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-1/",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670b0af8a9db3c91ec374dbd"
+  },
+  "title": "The Nightmare Before Christmas",
+  "release_date": {
+    "$date": "1993-10-29T00:00:00.000Z"
+  },
+  "rating": 8,
+  "overview": "In this beloved stop-motion animated classic, Jack Skellington, the Pumpkin King of Halloween Town, discovers Christmas Town and becomes enamored with the holiday. In an effort to bring Christmas to his home, he kidnaps Santa Claus and attempts to take over the holiday, leading to chaos and hilarity. The film explores themes of identity, tradition, and the joy of giving, all set to a memorable score by Danny Elfman.",
+  "poster_photo": "https://m.media-amazon.com/images/M/MV5BNmYxOTAzZWYtOGI3Yi00ODc3LTk5ZjYtZTY0MzVkZTg3YmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "genres": [
+    "Animation",
+    "Fantasy",
+    "Family",
+    "Musical"
+  ],
+  "categories": [
+    {
+      "$oid": "670875b84d96e86e905c2e97"
+    },
+    {
+      "$oid": "670874eb4d96e86e905c2e8d"
+    },
+    {
+      "$oid": "670875d14d96e86e905c2e99"
+    },
+    {
+      "$oid": "670875e14d96e86e905c2e9a"
+    }
+  ],
+  "vote_count": 500000,
+  "views": 2500000,
+  "photo": "https://m.media-amazon.com/images/M/MV5BYTI4NGY5MmItMDUyMC00MThiLTg3ZWItMjE5NWVhODkwOGM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "trailer": "https://imdb-video.media-imdb.com/vi1628814105/1434659607842-pgv4ql-1564053155113.mp4?Expires=1728863324&Signature=ohjl2ota4a-PeezpM8sKDcZqHcSYkXbPZPWIDNQ7DxqzXw7KW9qWFFbAeJukcUZGN0FrxFfL-YsLjAnmyivEi0nhcVb12MGNrcVych66IYS2FmtHlxkztAz1qFY197Yy88mz6HF1Avvg~4~~DQ~EMAggfV1iCYN0i3DmsnokO7v1lG9aU8dniBjhDHhsIJI82-z9FsgH4jPz2-ctl6afpw6mmT5tU6hgh4mbsOXTjiIWUxqLqWdHrbvsxMSxUNIQkzH7PlCekHZWfErIAZ7~wYksizdgCi5y~9NjrtdtlUcb9-Kpgdn3Qsy44QVfYhWy7WGKvB~6aJjrCBwCCq0CuQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+  "link": "https://egybest.land/%d9%81%d9%8a%d9%84%d9%85-the-nightmare-before-christmas-1993-%d9%85%d8%af%d8%a8%d9%84%d8%ac/",
+  "__v": 0
+}]

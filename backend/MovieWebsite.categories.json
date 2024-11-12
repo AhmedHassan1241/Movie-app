@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "670873ff4d96e86e905c2e87"
+  },
+  "name": "Action"
+},
+{
+  "_id": {
+    "$oid": "670874854d96e86e905c2e89"
+  },
+  "name": "Adventure"
+},
+{
+  "_id": {
+    "$oid": "670874a74d96e86e905c2e8a"
+  },
+  "name": "Comedy"
+},
+{
+  "_id": {
+    "$oid": "670874be4d96e86e905c2e8b"
+  },
+  "name": "Crime"
+},
+{
+  "_id": {
+    "$oid": "670874d44d96e86e905c2e8c"
+  },
+  "name": "Drama"
+},
+{
+  "_id": {
+    "$oid": "670874eb4d96e86e905c2e8d"
+  },
+  "name": "Fantasy"
+},
+{
+  "_id": {
+    "$oid": "670874f94d96e86e905c2e8e"
+  },
+  "name": "Historical"
+},
+{
+  "_id": {
+    "$oid": "670875074d96e86e905c2e8f"
+  },
+  "name": "Horror"
+},
+{
+  "_id": {
+    "$oid": "670875314d96e86e905c2e90"
+  },
+  "name": "Mystery"
+},
+{
+  "_id": {
+    "$oid": "6708755c4d96e86e905c2e92"
+  },
+  "name": "Romance"
+},
+{
+  "_id": {
+    "$oid": "670875694d96e86e905c2e93"
+  },
+  "name": "Science Fiction (Sci-Fi)"
+},
+{
+  "_id": {
+    "$oid": "6708757f4d96e86e905c2e94"
+  },
+  "name": "Thriller"
+},
+{
+  "_id": {
+    "$oid": "6708758d4d96e86e905c2e95"
+  },
+  "name": "War"
+},
+{
+  "_id": {
+    "$oid": "670875a94d96e86e905c2e96"
+  },
+  "name": "Western"
+},
+{
+  "_id": {
+    "$oid": "670875b84d96e86e905c2e97"
+  },
+  "name": "Animation"
+},
+{
+  "_id": {
+    "$oid": "670875c54d96e86e905c2e98"
+  },
+  "name": "Documentary"
+},
+{
+  "_id": {
+    "$oid": "670875d14d96e86e905c2e99"
+  },
+  "name": "Family"
+},
+{
+  "_id": {
+    "$oid": "670875e14d96e86e905c2e9a"
+  },
+  "name": "Musical"
+},
+{
+  "_id": {
+    "$oid": "670ab6933c20b8313f9d0d45"
+  },
+  "name": "Superhero"
+}]
