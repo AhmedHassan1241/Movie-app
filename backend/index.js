@@ -9,8 +9,8 @@ const cors = require('cors');
 const app = express();
 
 app.use(cors({
-  // origin: ['https://movie-app-client-theta-seven.vercel.app', 'http://another-domain.com']
-origin: ['https://movie-app-client-theta-seven.vercel.app', 'https://movie-app-api-one.vercel.app/movies']  
+  origin: ['https://movie-app-client-5k20uvij6-ahmedhassan1241s-projects.vercel.app', 'http://another-domain.com']
+// origin: ['https://movie-app-client-theta-seven.vercel.app', 'https://movie-app-api-one.vercel.app/movies']  
 }));
 app.use(express.json());
 
