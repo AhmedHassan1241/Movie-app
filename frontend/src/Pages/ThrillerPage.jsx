@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { AdventureFilm } from './../AdventureFilm';
+import { ThrillerFilm } from './../ThrillerFilm';
 
 const ThrillerPage = () => {
     const [pageN,setPageN] = useState({
@@ -16,17 +16,31 @@ const ThrillerPage = () => {
     }, []);
   return (
     <>
-<AdventureFilm limit={12} page={pageN.page} totalPages={pageN.totalPages}/>
+<ThrillerFilm limit={12} page={pageN.page} totalPages={pageN.totalPages}/>
 <div>
 <nav aria-label="Page navigation" style={{backgroundColor:"white",borderRadius:"5px",margin:"10px 0",display:"flex",justifyContent:"center" ,alignItems:"center"}}>
   <ul className="pagination pagination-sm my-1" >
-  {Array.from({ length: pageN.totalPages }, (_, index)=>(
-    <li key={index} className={`page-item ${pageN.page===(index+1)?'active':''}`} aria-current="page">
-      <button className="page-link" onClick={()=>{setPageN({...pageN,page:index+1})}}>{index+1}</button>
-    </li>
-    ))}
+  {(pageN.totalPages > 1) ? (
+              Array.from({ length: pageN.totalPages }, (_, index) => (
+              <li
+                key={index}
+                className={`page-item ${
+                  pageN.page === index + 1 ? "active" : ""
+                }`}
+                aria-current="page"
+              >
+                <button
+                  className="page-link"
+                  onClick={() => {
+                    setPageN({ ...pageN, page: index + 1 });
+                  }}
+                >
+                  {index + 1}
+                </button>
+              </li>
+            ))):""}
   </ul>
-</nav> 
+</nav>
 </div>
     </>
   )

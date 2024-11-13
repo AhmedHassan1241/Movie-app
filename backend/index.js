@@ -21,7 +21,7 @@ const PORT = process.env.PORT || 8080;  // Using environment variable or default
 
 
 app.use(morgan("dev"));
-const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/myapp';  // Use environment variable for MongoDB URI
+// const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/myapp';  // Use environment variable for MongoDB URI
 mongoDB.connect();
 app.use(bodyParser.urlencoded({ extended: true }));
 
@@ -29,15 +29,15 @@ app.use("/movies", Domain.routes.MoviesRouter);
 
 
 // General error handling middleware
-// app.use((err, req, res, next) => {
-//   console.error(err.stack);
-//   res.status(500).send('Something went wrong!');
-// });
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).send('Something went wrong!');
+});
 
-// // 404 handler for unmatched routes
-// app.use((req, res) => {
-//   res.status(404).send('Sorry, page not found!');
-// });
+// 404 handler for unmatched routes
+app.use((req, res) => {
+  res.status(404).send('Sorry, page not found!');
+});
 
 
 app.listen(PORT, () => {
