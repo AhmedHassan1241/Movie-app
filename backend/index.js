@@ -27,15 +27,15 @@ app.use("/movies", Domain.routes.MoviesRouter);
 
 
 // General error handling middleware
-app.use((err, req, res, next) => {
-  console.error(err.stack);
-  res.status(500).send('Something went wrong!');
-});
+// app.use((err, req, res, next) => {
+//   console.error(err.stack);
+//   res.status(500).send('Something went wrong!');
+// });
 
-// 404 handler for unmatched routes
-app.use((req, res) => {
-  res.status(404).send('Sorry, page not found!');
-});
+// // 404 handler for unmatched routes
+// app.use((req, res) => {
+//   res.status(404).send('Sorry, page not found!');
+// });
 
 
 app.listen(PORT, () => {
