@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/movies/(.*)",
-      "dest": "/movies"
+      "dest": ""
     }
   ]
 }
