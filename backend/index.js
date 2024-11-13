@@ -1,3 +1,5 @@
+require('dotenv').config();  // Load environment variables from .env file
+
 const express = require("express");
 const mongoDB = require("./Infrastructure/DataBase/MongoDB");
 const Domain = require("./Domain");
@@ -15,11 +17,11 @@ app.use(express.json());
 //   origin: 'http://localhost:3000' // السماح بالطلبات من هذا الأصل فقط
 // }));
 
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;  // Using environment variable or default to 8080
 
 
 app.use(morgan("dev"));
-
+const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/myapp';  // Use environment variable for MongoDB URI
 mongoDB.connect();
 app.use(bodyParser.urlencoded({ extended: true }));
 

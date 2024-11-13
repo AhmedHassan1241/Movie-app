@@ -3,7 +3,7 @@
 
 #ignore files
 node_modules/
-
+.env
 
 # dependencies
 /node_modules
