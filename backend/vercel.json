@@ -8,7 +8,11 @@
   ],
   "routes": [
     {
+<<<<<<< HEAD
       "src": "/movies/(.*)",
+=======
+      "src": "/movies(.*)",
+>>>>>>> 271f3c9fd3b56d776a171abc19ea8ee0bdd403f8
       "dest": "/backend/index.js"
     }
   ]

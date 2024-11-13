@@ -15,7 +15,7 @@ const vercelConfig = {
   ],
   routes: [
     {
-        "src": "/movies/(.*)",
+        "src": "/movies(.*)",
         "dest": "/backend/index.js"
       }
   ]
