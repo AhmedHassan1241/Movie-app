@@ -4,15 +4,12 @@
     {
       "src": "backend/index.js",
       "use": "@vercel/node"
-    }],
+    }
+  ],
   "routes": [
     {
       "src": "/movies/(.*)",
-      "dest": "/backend/index.js"
-    },
-    {
-      "src": "/api/(.*)",
-      "dest": "/backend/index.js"
+      "dest": "/movies"
     }
   ]
 }

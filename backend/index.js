@@ -23,7 +23,7 @@ app.use(morgan("dev"));
 mongoDB.connect();
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.use("/movies", Domain.routes.MoviesRouter);
+app.use("/api/movies", Domain.routes.MoviesRouter);
 
 
 // General error handling middleware
