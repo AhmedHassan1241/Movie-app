@@ -6,7 +6,7 @@ export function ActionFilm({limit = 4, page=1,totalPages=1}) {
 
   useEffect(() => {
         // fetch(`http://localhost:8080/movies/category/670873ff4d96e86e905c2e87?page=${page}&limit=${limit}`)
-    fetch(`http://localhost:8080/movies/category/670873ff4d96e86e905c2e87?page=${page}&limit=${limit}`)
+    fetch(`https://movie-app-gvpsdcke5-ahmedhassan1241s-projects.vercel.app/movies/category/670873ff4d96e86e905c2e87?page=${page}&limit=${limit}`)
       .then(response => response.json())
       .then(data => setMovies(data.movies))
       .catch(error => console.error('Error fetching movies:', error));
