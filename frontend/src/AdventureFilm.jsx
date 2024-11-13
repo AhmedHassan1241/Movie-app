@@ -6,6 +6,7 @@ export function AdventureFilm({limit=4,page=1}) {
 
   useEffect(() => {
     fetch(`http://localhost:8080/movies/category/670874854d96e86e905c2e89?page=${page}&limit=${limit}`)
+      
       .then(response => response.json())
       .then(data => setMovies(data.movies))
       .catch(error => console.error('Error fetching movies:', error));
